@@ -17,7 +17,7 @@ I enjoy building infrastructure as code, containerizing applications, and deploy
 ## 📫 Contact Me:
 
 
-- LinkedIn: https://www.linkedin.com/in/alimjfr44/
+- LinkedIn: https://www.linkedin.com/in/alim-devops
 
 
 - Email: adsbookss@gmail.com
